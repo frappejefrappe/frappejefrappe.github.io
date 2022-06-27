@@ -5,7 +5,7 @@ theme = 'smol'
 
 # Parameters
 [params]
-    subtitle = "C'est injouable!"
+    subtitle = ""
     dateFmt = "02.01.2006 15:04"
 
 # Header
